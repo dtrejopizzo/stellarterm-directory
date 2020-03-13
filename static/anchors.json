@@ -568,5 +568,18 @@
                 "issuer": "GBUMIO5G77562NFZZVMKMAUQL3CCZOGTGTUP6PVVUS2BM7U2WSPHOTON"
             }
         ]
+    },
+    {
+        "domain": "nydro.energy",
+        "website": "https://nydro.energy",
+        "logo": "nydro",
+        "color": "#00b4ce",
+        "displayName": "NYDRO",
+        "assets": [
+            {
+                "code": "NYT",
+                "issuer": "GDNXSZSF7HIGVRL2LG6VWXN5PWV3KHI77DQTHLLPKNPLUZFKRRDQJBXP"
+            }
+        ]
     }
 ]
